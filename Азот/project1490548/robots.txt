@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: http://xn----8sbucdhe9ayaei5ig.xn--p1ai/sitemap.xml
+Host: xn----8sbucdhe9ayaei5ig.xn--p1ai
